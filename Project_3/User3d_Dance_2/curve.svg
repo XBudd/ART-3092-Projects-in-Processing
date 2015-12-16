@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="curve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="24 -239.4 1344.7 1343.4" style="enable-background:new 24 -239.4 1344.7 1343.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#ED1C24;}
+</style>
+<path id="BR" class="st0" d="M1285.6,432.4c-0.1,325.1-263.7,588.6-588.8,588.6c-0.3,0-0.6,0-0.9,0v84.1
+	c371.6,0,672.8-301.2,672.8-672.8h-83.1V432.4z"/>
+<path id="TR" class="st0" d="M696.8-156.5c325.2,0,588.8,263.6,588.8,588.8c0,0.1,0,0.1,0,0.2h83.1c0-371.6-301.2-672.8-672.8-672.8
+	v83.8C696.2-156.5,696.5-156.5,696.8-156.5z"/>
+<path id="TL" class="st0" d="M108,432.3c0-325.2,263.6-588.8,588.8-588.8v-83.8C325.2-240.3,24,60.9,24,432.4L108,432.3L108,432.3z"
+	/>
+<path id="BL" class="st0" d="M108,432.4H24c0,371.6,301.2,672.8,672.8,672.8v-84.1C371.7,1021.1,108.1,757.6,108,432.4z"/>
+</svg>
